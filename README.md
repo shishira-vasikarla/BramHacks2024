@@ -1,16 +1,16 @@
 
 
-# 🚍 SmartRide App – Sustainable, Sensor-Based Transit Innovation
+SmartRide App – Sustainable, Sensor-Based Transit Innovation
 
-### By: The Tech Team
+By: The Tech Team
 
-## 📌 Overview
+ Overview
 
 SmartRide is a forward-looking public transit solution designed to improve **urban mobility** by combining sensor technology, real-time data analytics, and multimodal transportation planning. The project aims to address current transit system challenges by improving **accessibility**, **sustainability**, and **user experience**.
 
 ---
 
-## ❗ Problems in Today’s Transit Systems
+ Problems in Today’s Transit Systems
 
 * 🚫 Lack of real-time insights (bus delays, route congestion)
 * 🌱 Insufficient sustainable transit alternatives (e.g., biking)
@@ -19,11 +19,11 @@ SmartRide is a forward-looking public transit solution designed to improve **urb
 
 ---
 
-## 💡 Our Solution: SmartRide System
+ Our Solution: SmartRide System
 
-### 🛠️ Key Innovations:
+###  Key Innovations:
 
-#### 🔸 **Sensor-Based Bus Stops**
+#### **Sensor-Based Bus Stops**
 
 * Tracks **bus occupancy levels**
 * Monitors **air quality**
@@ -31,12 +31,12 @@ SmartRide is a forward-looking public transit solution designed to improve **urb
 * Provides **live bus schedules**
 * Collects data on **peak traffic hours**
 
-#### 🔸 **Smart Stop Technology**
+#### **Smart Stop Technology**
 
 * Only users **within a set proximity radius** can trigger a stop request
 * Prevents misuse or miscommunication in crowded transit zones
 
-#### 🔸 **Integrated Bike Ride Features**
+#### **Integrated Bike Ride Features**
 
 * Expand bike lanes in:
 
@@ -47,7 +47,7 @@ SmartRide is a forward-looking public transit solution designed to improve **urb
 
 ---
 
-## 🌎 Inspired by SOBI’s Success
+## Inspired by SOBI’s Success
 
 The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and adapts it to Brampton’s transit system to promote:
 
@@ -57,7 +57,7 @@ The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and 
 
 ---
 
-## ✅ Features & Benefits
+## Features & Benefits
 
 | Feature                        | Benefit                                                     |
 | ------------------------------ | ----------------------------------------------------------- |
@@ -69,7 +69,7 @@ The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and 
 
 ---
 
-## 📈 Expected Impact
+##  Expected Impact
 
 * 🚍 Enhanced transit accessibility in high-density areas
 * 🧠 Data-driven decisions for infrastructure upgrades
@@ -78,7 +78,7 @@ The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and 
 
 ---
 
-## 📁 Future Vision
+## Future Vision
 
 * Integrate a **mobile app interface** for Smart Stop control
 * Expand to include **real-time GPS tracking** of buses
