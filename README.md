@@ -76,7 +76,7 @@ The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and 
 * 🌱 Promotion of sustainable urban mobility
 * 💼 Scalable framework for other smart city initiatives
 
----
+--
 
 ## Future Vision
 
@@ -85,7 +85,7 @@ The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and 
 * Introduce **incentive programs** for low-emission commuters
 * Visual dashboards for municipal analytics (e.g., peak travel heatmaps)
 
----
+--
 
 Thank You
 
