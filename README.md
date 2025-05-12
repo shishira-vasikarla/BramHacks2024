@@ -47,7 +47,7 @@ SmartRide is a forward-looking public transit solution designed to improve **urb
 
 --
 
-## Inspired by SOBI’s Success
+Inspired by SOBI’s Success
 
 The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and adapts it to Brampton’s transit system to promote:
 
