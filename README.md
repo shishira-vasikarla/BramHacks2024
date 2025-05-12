@@ -8,7 +8,7 @@ By: The Tech Team
 
 SmartRide is a forward-looking public transit solution designed to improve **urban mobility** by combining sensor technology, real-time data analytics, and multimodal transportation planning. The project aims to address current transit system challenges by improving **accessibility**, **sustainability**, and **user experience**.
 
----
+--
 
  Problems in Today’s Transit Systems
 
@@ -17,7 +17,7 @@ SmartRide is a forward-looking public transit solution designed to improve **urb
 * 🧭 Poor accessibility in high-density urban zones
 * 💬 Limited promotion of eco-conscious transit options
 
----
+--
 
  Our Solution: SmartRide System
 
@@ -45,7 +45,7 @@ SmartRide is a forward-looking public transit solution designed to improve **urb
   * Areas with inconvenient bus access
   * Terminals to enable seamless multimodal travel
 
----
+--
 
 ## Inspired by SOBI’s Success
 
@@ -55,7 +55,7 @@ The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and 
 * Eco-conscious commuting options
 * Community-wide health and mobility improvements
 
----
+--
 
 ## Features & Benefits
 
@@ -67,7 +67,7 @@ The SmartRide App takes cues from the success of **SOBI (Social Bicycles)** and 
 | 🌬️ Air Quality Monitoring     | Supports health-conscious travel decisions                  |
 | 🛣️ Road Condition Insights    | Aids in infrastructure maintenance & service planning       |
 
----
+--
 
 ##  Expected Impact
 
